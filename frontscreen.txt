@@ -1,0 +1,29 @@
+
+void frontscreen()
+{
+     drawBitmapText("SAHYADRI COLLEGE OF ENGINEERING AND MANAGEMENT ",-1.80,4,-6.0);
+    glColor3f(0.7,0,1);
+     drawBitmapText("DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING",-1.80,3.5,-6.0);
+    glColor3f(1,1,1);
+     drawBitmapText("A MINI PROJECT ON",-0.65,3,-6.0);
+    glColor3f(1,0,0);
+     drawBitmapText("STUMP SMASHERS",-0.65,2.5,-6.0);
+    glColor3f(1,1,1);
+     drawBitmapText("BY:",-0.2,2,-6.0);
+    glColor3f(0.5,0,0.5);
+     drawBitmapText("ROHIT ARUN NAYAK (4SF20CS106)",-1.05,1.5,-6.0);
+    glColor3f(0.5,0,0.5);
+     drawBitmapText("SHREYITH J AMIN (4SF20CS139)",-1,1,-6.0);
+    glColor3f(1,0,0);
+     drawBitmapText("PRESS ENTER TO START",-0.80,-2,-6.0);
+    glColor3f(1,0,0);
+     drawBitmapText("INSTRUCTIONS  FOR  THE  GAME",-01.1,0,-6.0);
+    glColor3f(1,1,1);
+     drawBitmapText("* The spin for each of the ball will be displayed at top-centre position.",-2.8,-0.5,-6.0);
+    glColor3f(1,1,1);
+     drawBitmapText("* You need to pitch the ball using mouse clicks, taking the spin into account so as to hit the stumps.",-2.8,-1,-6);
+    glColor3f(1.0,1.0,1.0);
+     drawBitmapText("* Pitch the ball on the white strip for best results.Break 'em all!! :)",-2.8,-1.5,-6);
+    glColor3f(0.0,0.0,0.0);
+     //drawBitmapText("PRESS  'p' TO  PLAY",-0.8,0,-6);
+}
